@@ -42,9 +42,9 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
+                <h2>Let's Work</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
+                  Please fill out the form below to send O/I an email and he will
                   get back to you as soon as possible.
                 </p>
               </div>
